@@ -3,7 +3,6 @@ import type {
   TService,
   TTechnology,
   TExperience,
-  TProject,
 } from "../types";
 
 import {
