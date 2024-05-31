@@ -3,7 +3,6 @@ import { motion } from "framer-motion";
 
 import { github } from "../../assets";
 import { SectionWrapper } from "../../hoc";
-import { projects } from "../../constants";
 import { fadeIn } from "../../utils/motion";
 import { config } from "../../constants/config";
 import { Header } from "../atoms/Header";
@@ -75,12 +74,6 @@ const Works = () => {
         >
           {config.sections.works.content}
         </motion.p>
-      </div>
-
-      <div className="mt-20 flex flex-wrap gap-7">
-        {projects.map((project, index) => (
-          <ProjectCard key={`project-${index}`} index={index} {...project} />
-        ))}
       </div>
     </>
   );
