@@ -48,6 +48,4 @@ export {
   sim,
   chess,
   fiverr,
-  jobit,
-  tripguide,
 };

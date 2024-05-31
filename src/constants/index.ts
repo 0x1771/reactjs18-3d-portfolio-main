@@ -3,7 +3,6 @@ import type {
   TService,
   TTechnology,
   TExperience,
-  TTestimonial,
   TProject,
 } from "../types";
 
@@ -27,8 +26,6 @@ import {
   sim,
   chess,
   fiverr,
-  jobit,
-  tripguide,
   threejs,
 } from "../assets";
 
