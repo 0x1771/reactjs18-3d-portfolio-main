@@ -148,7 +148,7 @@ const experiences: TExperience[] = [
     companyName: "SimSpace",
     icon: sim,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "Apr 2022 - Jan 2023",
     points: [
       "Design and implement new solutions and strategies to enhance and strengthen the company's security infrastructure.",
       "Scan software, hardware, and network systems for weaknesses using manual and automated tools.",
