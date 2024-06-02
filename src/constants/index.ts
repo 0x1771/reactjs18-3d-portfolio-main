@@ -119,7 +119,7 @@ const technologies: TTechnology[] = [
 
 const experiences: TExperience[] = [
   {
-    title: "React.js Developer",
+    title: "Backend Developer",
     companyName: "Chess.com",
     icon: chess,
     iconBg: "#383E56",
